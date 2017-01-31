@@ -1,13 +1,13 @@
 ﻿.about-container{
-     position:center;
-    margin-left:230px;
-    margin-right:230px;
+    margin: 0 auto;
 
-    font-size:150%;
-    text-align:center;
-    margin-bottom:40px;
+    text-align: center;
+    margin-bottom: 20px;
+
+    max-width: 1280px;
 
 }
+
 .about-content{
     text-align:center;
     font-size:inherit;
@@ -15,11 +15,13 @@
     color:slategray;
     overflow:auto;
 }
+
 @media screen and (max-width:639px){
    .about-container{
        max-width:320px;
    }
 }
+
 @media screen and (max-width:1280px) and (min-width:640px){
     .about-container{
         max-width:640px;
