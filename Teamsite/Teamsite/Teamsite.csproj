@@ -89,6 +89,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Stylesheets\about.css" />
+    <Content Include="Content\Stylesheets\footer.css" />
+    <Content Include="Content\Stylesheets\intro.css" />
+    <Content Include="Content\Stylesheets\members.css" />
+    <Content Include="Content\Stylesheets\projects.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
