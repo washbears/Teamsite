@@ -92,6 +92,7 @@
     <Content Include="Content\Images\lina.JPG" />
     <Content Include="Content\Stylesheets\about.css" />
     <Content Include="Content\Stylesheets\footer.css" />
+    <Content Include="Content\Stylesheets\global.css" />
     <Content Include="Content\Stylesheets\intro.css" />
     <Content Include="Content\Stylesheets\members.css" />
     <Content Include="Content\Stylesheets\projects.css" />
