@@ -3,6 +3,9 @@
     overflow: auto;
 
     margin: 0 auto;
+
+    text-align: center;
+    text-transform: lowercase;
 }
 
 .member-content {
@@ -14,19 +17,19 @@
 }
 
 .member-image {
-    margin: 0 auto;
-
-    width: 150px;
-    overflow: auto;
-}
-.member-content img {
-    margin: 0 auto;
+    margin: 0 auto 10px auto;
 
     width: 150px;
     height: 150px;
     overflow: hidden;
 
     border-radius: 360px;
+}
+.member-content img {
+    margin: 0 auto;
+
+    width: 150px;
+    height: auto;
 }
 
 @media screen and (max-width: 639px) {
