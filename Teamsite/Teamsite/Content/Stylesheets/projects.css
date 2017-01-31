@@ -1,2 +1,47 @@
-﻿body {
+﻿.projects {
+    width: 100%;
+    overflow: auto;
+
+    text-align: center;
+}
+.projects a.secondary:hover {
+    color: black;
+}
+
+.projects-container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.project-content {
+    overflow: auto;
+}
+.project-content img {
+    width: 100%;
+    height: auto;
+}
+.project-image {
+    width: 50%;
+    overflow: auto;
+}
+
+.project-text {
+    overflow: auto;
+    
+    padding: 20px;
+    width: calc(50% - 40px);
+    text-align: left;
+}
+.project-text p {
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 640px) {
+    .project-image {
+        display: none;
+    }
+
+    .project-text {
+        width: calc(100% - 40px);
+    }
 }
