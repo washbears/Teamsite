@@ -93,6 +93,8 @@
     <Content Include="Content\font-awesome-4.7.0\css\font-awesome.min.css" />
     <Content Include="Content\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="Content\Fonts\Montserrat\OFL.txt" />
+    <Content Include="Content\Fonts\Open_Sans\LICENSE.txt" />
     <Content Include="Content\Images\lina.JPG" />
     <Content Include="Content\Images\ppadminproj.jpg" />
     <Content Include="Content\Stylesheets\about.css" />
@@ -149,6 +151,18 @@
     <Content Include="Content\font-awesome-4.7.0\scss\_screen-reader.scss" />
     <Content Include="Content\font-awesome-4.7.0\scss\_stacked.scss" />
     <Content Include="Content\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Include="Content\Fonts\Montserrat\Montserrat-Bold.ttf" />
+    <Content Include="Content\Fonts\Montserrat\Montserrat-Regular.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-Bold.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-BoldItalic.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-ExtraBold.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-ExtraBoldItalic.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-Italic.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-Light.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-LightItalic.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-Semibold.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-Regular.ttf" />
+    <Content Include="Content\Fonts\Open_Sans\OpenSans-SemiboldItalic.ttf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

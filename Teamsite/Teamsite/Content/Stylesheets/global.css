@@ -3,13 +3,17 @@
     padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif;
 }
 
-/* Text */
+/* Fonts */
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', 'Open Sans', Arial, sans-serif;
     text-transform: lowercase;
 }
 
