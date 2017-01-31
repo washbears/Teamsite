@@ -1,2 +1,25 @@
-﻿body {
+﻿.about-container{
+     position:center;
+    margin-left:230px;
+    margin-right:230px;
+
+    text-align:center;
+    margin-bottom:40px;
 }
+.about-content{
+    text-align:center;
+    font-size: 20px;
+
+    overflow:auto;
+}
+@media screen and (max-width:639px){
+   .about-container{
+       max-width:320px;
+   }
+}
+@media screen and (max-width:1280px) and (min-width:640px){
+    .about-container{
+        max-width:640px;
+    }
+}
+
