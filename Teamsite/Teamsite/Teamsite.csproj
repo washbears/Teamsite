@@ -94,6 +94,7 @@
     <Content Include="Content\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\font-awesome-4.7.0\HELP-US-OUT.txt" />
     <Content Include="Content\Images\lina.JPG" />
+    <Content Include="Content\Images\ppadminproj.jpg" />
     <Content Include="Content\Stylesheets\about.css" />
     <Content Include="Content\Stylesheets\footer.css" />
     <Content Include="Content\Stylesheets\global.css" />
