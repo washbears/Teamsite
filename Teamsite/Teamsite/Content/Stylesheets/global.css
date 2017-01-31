@@ -7,12 +7,24 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* Text */
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: lowercase;
+}
 
 /* Colors */
+
+a {
+    color: black;
+}
+a.secondary {
+    color: rgba(0, 0, 0, 0.54);
+}
 
 .primary-text {
 
 }
 .secondary {
-    color: rgba(0, 0, 0, 0.87);
+    color: rgba(0, 0, 0, 0.54);
 }
