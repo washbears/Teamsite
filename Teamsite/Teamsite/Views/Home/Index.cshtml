@@ -7,15 +7,21 @@
 
 <html>
 <head>
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
 
+    <title>washbears</title>
+
+    <!-- Stylesheets -->
     <link href="~/Content/Stylesheets/global.css" rel="stylesheet" />
     <link href="~/Content/Stylesheets/intro.css" rel="stylesheet" />
     <link href="~/Content/Stylesheets/about.css" rel="stylesheet" />
     <link href="~/Content/Stylesheets/projects.css" rel="stylesheet" />
     <link href="~/Content/Stylesheets/members.css" rel="stylesheet" />
     <link href="~/Content/Stylesheets/footer.css" rel="stylesheet" />
+
+    <!-- Font Awesome -->
+    <link href="~/Content/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 </head>
 <body>
     <div name="intro">
@@ -33,30 +39,62 @@
 
     </div>
     <div name="about">
+        <div class="about-container">
+            <h2>om washbears</h2>
+            <div class="about-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id pellentesque metus, in ultricies nibh. Morbi quis felis sit amet dui fringilla consectetur id vel elit. Nulla facilisi. Vivamus felis tellus, finibus vel mi at, lobortis lobortis mi. Cras vestibulum dictum facilisis. Sed eu venenatis est. Integer eu nisi vitae purus lacinia imperdiet.</p>
+            </div>
+        </div>
     </div>
-    <div name="projects">
+    <div name="projects" class="projects">
+        <div class="projects-container">
+            <h2>projects</h2>
+            <div class="project-content bg-orange">
+                <div class="project-text left">
+                    <h3>PPAdministration</h3>
+                    <p class="secondary">Ett CRM-verktyg byggt för Östra Gymnasiet för att hantera praktikplatser för sina elever.</p>
+                    <a href="http://ostra-ppa.azurewebsites.net/" class="secondary"><i class="fa fa-2x fa-globe"></i></a>
+                </div>
+                <div class="project-image right">
+                    <img src="~/Content/Images/ppadminproj.jpg" />
+                </div>
+            </div>
+        </div>
     </div>
     <div name="members">
         <div class="members-container">
+            <h2>members</h2>
             <div class="member-content">
                 <div class="member-image">
                     <img src="~/Content/Images/lina.JPG" />
                 </div>
+                <h3>linus alpsten</h3>
+                <a href="" class="secondary"><i class="fa fa-3x fa-globe"></i></a>
+                <a href="https://github.com/linusalpsten" class="secondary"><i class="fa fa-3x fa-github"></i></a>
             </div>
             <div class="member-content">
                 <div class="member-image">
                     <img src="~/Content/Images/lina.JPG" />
                 </div>
+                <h3>daniel eriksson</h3>
+                <a href="" class="secondary"><i class="fa fa-3x fa-globe"></i></a>
+                <a href="https://github.com/DanielT4" class="secondary"><i class="fa fa-3x fa-github"></i></a>
+            </div>
+            <div class="member-content">
+                <div class="member-image">
+                    <img src="~/Content/Images/lina.JPG" style="margin: -15px 0 0 0;" />
+                </div>
+                <h3>lina hanner sánchez</h3>
+                <a href="" class="secondary"><i class="fa fa-3x fa-globe"></i></a>
+                <a href="https://github.com/lina-hs" class="secondary"><i class="fa fa-3x fa-github"></i></a>
             </div>
             <div class="member-content">
                 <div class="member-image">
                     <img src="~/Content/Images/lina.JPG" />
                 </div>
-            </div>
-            <div class="member-content">
-                <div class="member-image">
-                    <img src="~/Content/Images/lina.JPG" />
-                </div>
+                <h3>linus skagerberg</h3>
+                <a href="" class="secondary"><i class="fa fa-3x fa-globe"></i></a>
+                <a href="https://github.com/Girtouh" class="secondary"><i class="fa fa-3x fa-github"></i></a>
             </div>
         </div>
     </div>
