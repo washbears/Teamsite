@@ -5,7 +5,20 @@
     margin: 0 auto;
 
     text-align: center;
-    text-transform: lowercase;
+}
+.members-container h2 {
+    margin: 20px 0;
+}
+.members-container h3 {
+    margin-bottom: 10px;
+}
+
+.members-container a:hover {
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.members-container a.secondary:hover {
+    color: black;
 }
 
 .member-content {
