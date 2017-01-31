@@ -95,11 +95,13 @@
     <Content Include="Content\font-awesome-4.7.0\HELP-US-OUT.txt" />
     <Content Include="Content\Fonts\Montserrat\OFL.txt" />
     <Content Include="Content\Fonts\Open_Sans\LICENSE.txt" />
+    <Content Include="Content\Images\linusS.JPG" />
     <Content Include="Content\Images\IMG_20170131_100644.jpg" />
     <Content Include="Content\Images\IMG_20170131_100649.jpg" />
     <Content Include="Content\Images\IMG_20170131_100738.jpg" />
     <Content Include="Content\Images\IMG_20170131_100807.jpg" />
     <Content Include="Content\Images\IMG_20170131_100827.jpg" />
+    <Content Include="Content\Images\daniel.JPG" />
     <Content Include="Content\Images\lina.JPG" />
     <Content Include="Content\Images\ppadminproj.jpg" />
     <Content Include="Content\Stylesheets\about.css" />
