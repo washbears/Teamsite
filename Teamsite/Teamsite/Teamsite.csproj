@@ -89,6 +89,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Images\IMG_20170131_100644.jpg" />
+    <Content Include="Content\Images\IMG_20170131_100649.jpg" />
+    <Content Include="Content\Images\IMG_20170131_100738.jpg" />
+    <Content Include="Content\Images\IMG_20170131_100807.jpg" />
+    <Content Include="Content\Images\IMG_20170131_100827.jpg" />
     <Content Include="Content\Images\lina.JPG" />
     <Content Include="Content\Stylesheets\about.css" />
     <Content Include="Content\Stylesheets\footer.css" />
