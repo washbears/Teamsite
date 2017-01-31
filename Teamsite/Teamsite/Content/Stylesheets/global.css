@@ -39,6 +39,9 @@ a.secondary {
 .secondary {
     color: rgba(0, 0, 0, 0.54);
 }
+.disabled {
+    color: rgba(0, 0, 0, 0.28);
+}
 
 .bg-orange {
     background-color: orange;
