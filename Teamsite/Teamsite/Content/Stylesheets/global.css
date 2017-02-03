@@ -33,8 +33,8 @@ a.secondary {
     color: rgba(0, 0, 0, 0.54);
 }
 
-.primary-text {
-
+.primary {
+    color: black;
 }
 .secondary {
     color: rgba(0, 0, 0, 0.54);
